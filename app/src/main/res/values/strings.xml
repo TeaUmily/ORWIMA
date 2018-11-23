@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OsnoveRWIMA_LV1</string>
+    <string name="inspiration">INSPIRATION</string>
+    <string name="main_activity_title">Famous Scientists</string>
+    <string name="top_3">TOP 3</string>
+    <string name="edit_description">EDIT DESCRIPTION</string>
+    <string name="enter_new_description">Enter new description</string>
+    <string name="first_person">First person</string>
+    <string name="second_person">Second person</string>
+    <string name="third_person">Third person</string>
+</resources>
